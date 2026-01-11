@@ -21,8 +21,7 @@ It shows errors in red if the password doesn’t meet rules and a green “Stron
 
 ### Using Python
 1. Make sure Python 3 is installed  
-2. Run:
+2. download the exe file
+3. run it.
 
-```bash
-python password_checker_gui.py
 
