@@ -3,6 +3,7 @@
 
 A simple Python GUI app using Tkinter that checks password strength.  
 It shows errors in red if the password doesn’t meet rules and a green “Strong password!” message when it’s valid.
+I made 2 versions,the first hides your input as it is typed,while the second shows it.
 
 ---
 
